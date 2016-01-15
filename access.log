@@ -1,0 +1,30 @@
+::1 - - [Tue, 12 Jan 2016 14:18:34 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:18:34 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:21:59 GMT] "GET /archive HTTP/1.1" 200 1332 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:21:59 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:20 GMT] "GET /post HTTP/1.1" 200 1175 "http://localhost:3000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:20 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:35 GMT] "GET /archive HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:35 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:40 GMT] "GET /tags HTTP/1.1" 200 970 "http://localhost:3000/archive" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:40 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:46 GMT] "GET /tags/handlerbars HTTP/1.1" 200 1062 "http://localhost:3000/tags" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Tue, 12 Jan 2016 14:22:46 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Wed, 13 Jan 2016 18:50:01 GMT] "GET / HTTP/1.1" 200 35702 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko)"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET /favicon.ico HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET /apple-touch-icon.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:02 GMT] "GET /apple-touch-icon.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:18 GMT] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Wed, 13 Jan 2016 18:50:18 GMT] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Wed, 13 Jan 2016 18:50:18 GMT] "GET /favicon.ico HTTP/1.1" 200 215 "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+::1 - - [Wed, 13 Jan 2016 18:50:18 GMT] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+::1 - - [Wed, 13 Jan 2016 18:50:18 GMT] "GET /apple-touch-icon.png HTTP/1.1" 304 - "-" "Safari/11601.3.9 CFNetwork/760.2.6 Darwin/15.2.0 (x86_64)"
+[0mGET / [32m200 [0m139.132 ms - 35763[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.007 ms - 1772[0m
+[0mGET /post [32m200 [0m14.772 ms - 1175[0m
+[0mGET /stylesheets/style.css [36m304 [0m4.201 ms - -[0m
+[0mGET / [36m304 [0m37.464 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.465 ms - -[0m
